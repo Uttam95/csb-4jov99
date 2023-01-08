@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://uttam95.github.io/csb-4jov99/static/css/main.72d05f9e.chunk.css",
+    "main.js": "https://uttam95.github.io/csb-4jov99/static/js/main.163b092e.chunk.js",
+    "main.js.map": "https://uttam95.github.io/csb-4jov99/static/js/main.163b092e.chunk.js.map",
+    "runtime-main.js": "https://uttam95.github.io/csb-4jov99/static/js/runtime-main.146cccf4.js",
+    "runtime-main.js.map": "https://uttam95.github.io/csb-4jov99/static/js/runtime-main.146cccf4.js.map",
+    "static/js/2.822b3367.chunk.js": "https://uttam95.github.io/csb-4jov99/static/js/2.822b3367.chunk.js",
+    "static/js/2.822b3367.chunk.js.map": "https://uttam95.github.io/csb-4jov99/static/js/2.822b3367.chunk.js.map",
+    "static/js/3.42435182.chunk.js": "https://uttam95.github.io/csb-4jov99/static/js/3.42435182.chunk.js",
+    "static/js/3.42435182.chunk.js.map": "https://uttam95.github.io/csb-4jov99/static/js/3.42435182.chunk.js.map",
+    "index.html": "https://uttam95.github.io/csb-4jov99/index.html",
+    "static/css/main.72d05f9e.chunk.css.map": "https://uttam95.github.io/csb-4jov99/static/css/main.72d05f9e.chunk.css.map",
+    "static/js/2.822b3367.chunk.js.LICENSE.txt": "https://uttam95.github.io/csb-4jov99/static/js/2.822b3367.chunk.js.LICENSE.txt",
+    "static/media/amazon-logo.1c9be0b2.png": "https://uttam95.github.io/csb-4jov99/static/media/amazon-logo.1c9be0b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.146cccf4.js",
+    "static/js/2.822b3367.chunk.js",
+    "static/css/main.72d05f9e.chunk.css",
+    "static/js/main.163b092e.chunk.js"
+  ]
+}
